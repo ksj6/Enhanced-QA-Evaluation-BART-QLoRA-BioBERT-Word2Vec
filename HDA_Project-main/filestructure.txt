@@ -1,0 +1,33 @@
+|-- Data
+    |-- Final_initial_generated_cosine_csv_biobert.csv
+    |-- Final_initial_generated_cosine_csv_word_to_vec.csv
+    |-- Initial_dataset_cosine_scores.csv
+|-- Files ( Codes )
+    |-- BART-Finetuned.ipynb
+    |-- Final_HDA_Project.ipynb
+    |-- Initial_Data_plots_cosine_similarity_initial.py
+    |-- New_answer_generation_finetuned_bart.py
+    |-- Plots_Histograms_tsne.py
+|-- README.md
+|-- requirements.txt
+|-- Results ( Outputs )
+    |-- BioBERT Histograms and TSNE Plots
+        |-- BioBERT_Cosine_Similarity_histogram.png
+        |-- BioBERT_Cosine_Similarity_Initial_Generated_histogram.png
+        |-- BioBERT_Cosine_Similarity_Initial_Generated_vs_Cosine_Similarity_Question_Generated_tsne_plot.png
+        |-- BioBERT_Cosine_Similarity_Question_Generated_histogram.png
+        |-- BioBERT_Cosine_Similarity_vs_Cosine_Similarity_Initial_Generated_tsne_plot.png
+        |-- BioBERT_Cosine_Similarity_vs_Cosine_Similarity_Question_Generated_tsne_plot.png
+    |-- BioBERT_cosine_similarity_combined_bar_plot.png
+    |-- biobert_metrics.csv
+    |-- Initial_data_cosine_similarity_plot.jpg
+    |-- Initial_data_TSNE_plot.jpg
+    |-- Word2Vec_cosine_similarity_combined_bar_plot.png
+    |-- word2vec_metrics.csv
+    |-- WordtoVec Histograms and TSNE Plots
+        |-- Word2Vec_Cosine_Similarity_histogram.png
+        |-- Word2Vec_Cosine_Similarity_Initial_Generated_histogram.png
+        |-- Word2Vec_Cosine_Similarity_Initial_Generated_vs_Cosine_Similarity_Question_Generated_tsne_plot.png
+        |-- Word2Vec_Cosine_Similarity_Question_Generated_histogram.png
+        |-- Word2Vec_Cosine_Similarity_vs_Cosine_Similarity_Initial_Generated_tsne_plot.png
+        |-- Word2Vec_Cosine_Similarity_vs_Cosine_Similarity_Question_Generated_tsne_plot.png

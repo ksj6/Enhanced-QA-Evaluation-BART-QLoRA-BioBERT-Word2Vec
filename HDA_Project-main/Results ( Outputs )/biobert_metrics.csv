@@ -1,0 +1,4 @@
+Metric,Initial vs. Generated Answer,Question vs. Generated Answer
+Cosine Similarity,0.9370405098199844,0.908356391787529
+Euclidean Distance,3.4703431522810515,4.370629085838795
+Manhattan Distance,76.29245510666182,95.70385496363345

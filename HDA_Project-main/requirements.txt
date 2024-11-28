@@ -1,0 +1,13 @@
+datasets
+transformers
+torch
+scikit-learn
+matplotlib
+pandas
+numpy
+seaborn
+umap-learn
+tqdm
+time
+gensim
+pathlib
