@@ -153,11 +153,11 @@ Each model's metrics for comparing **Initial vs. Generated Answer** and **Questi
 
 ## Group 10( Members )
 
+*  21bds025  - Kartik Jagtap
 *  21bds004  - Anubhav Gupta
 *  21bds011  - Rohit Chaudhari
 *  21bds013  - Chintan Chawda 
 *  21bds017  - Dhairyashil Shendage
-*  21bds025  - Kartik Jagtap
 *  21bds026  - Kashish Lonpande
 
 ## Course Instructor
